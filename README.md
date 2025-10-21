@@ -30,7 +30,7 @@ git clone https://github.com/your_name/Repo-Issue-Agent.git
 cd Repo-Issue-Agent
 ```
 
-### 2. 拉取代码
+### 2. 配置文件
 
 在根目录的 run_RepoAgent.py 文件中配置你的 GitHub Token 和仓库 URL。
 
